@@ -6,6 +6,8 @@ npm install async
 npm install mysql
 
 
+
+
 # configuration check.js your database information
   var connection = mysql.createConnection({
   host     : '',
