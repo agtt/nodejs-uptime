@@ -3,6 +3,8 @@ Node JS Uptime Monitoring
 
 # installation
 npm install async
+
+
 npm install mysql
 
 
