@@ -12,10 +12,20 @@ npm install mysql
 
 # configuration check.js your database information
   var connection = mysql.createConnection({
+  
+  
   host     : '',
+  
+  
   user     : '',
+  
+  
   password : '',
+  
+  
   database : 'y'
+  
+  
 });
 
 
